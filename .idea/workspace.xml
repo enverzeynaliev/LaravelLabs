@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af65adda-6ef2-4684-8f29-347021a2c7df" name="Default Changelist" comment="edit styles and header">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="af65adda-6ef2-4684-8f29-347021a2c7df" name="Default Changelist" comment="first push">
       <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/add.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/auth/passwords/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/catalog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/catalog.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/homepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/homepage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/inc/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/inc/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/inc/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaravelLabs/resources/views/inc/header_log.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/LaravelLabs/resources/views/inc/header_log.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

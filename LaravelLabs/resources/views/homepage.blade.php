@@ -30,5 +30,11 @@
     </div>
 </div>
 </body>
-
+<style>
+    .content {
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 5%;
+    }
+</style>
 </html>
